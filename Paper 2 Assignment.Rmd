@@ -1,0 +1,11 @@
+---
+title: "Paper 2 Assignment"
+subtitle: "GLMs for Count Data"
+output: pdf_document
+---
+
+Data was collected on doctor visits from a sample of 5,190 people in the 1977/1978 Australian Health Survey. Cameron and Trivedi (1986) sought to explain the variation in doctor visits using one or more explanatory variables. The data can be found in an R data set from library(AER) accessible with the command data("DoctorVisits"). Variable descriptions can be found under help("DoctorVisits").
+
+You will want to explore the zero-inflated Poisson model for these data. See the class syllabus and homework rubric for grading details.
+
+<!-- In this paper, explore the use of a zero-inflated model for this data. Begin with a histogram of the number of visits, some exploratory data analyses, and fitting several models. Summarize your results. -->
